@@ -2,7 +2,7 @@
 
 
 
-The goal of this repo is to gather all tips / resources / librairies I use to develop shopify themes & apps.
+The goal of this repo is to gather all tips / resources / librairies we use to develop shopify themes & apps.
 
 
 --- 
