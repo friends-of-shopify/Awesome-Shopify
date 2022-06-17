@@ -22,3 +22,7 @@ The goal of this repo is to gather all tips / resources / libraries we use to de
 [Hydrogen (React based Framework)](https://hydrogen.shopify.dev/)
 
 [Shopify App (Node)](https://github.com/Shopify/shopify-app-template-node)
+
+## Cheatsheets
+
+[Liquid Cheatsheet](https://www.shopify.com/partners/shopify-cheat-sheet)
