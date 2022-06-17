@@ -15,7 +15,7 @@ The goal of this repo is to gather all tips / resources / libraries we use to de
 
 [Shopify GitHub Action](https://github.com/pgrimaud/action-shopify) : Deploy Shopify theme for GitHub Actions
 
-## Boilerplate 
+## Boilerplates
 
 [Webpack SCSS Shopify Theme Development Tool (Liquid)](https://github.com/krjo/shopify-webpack-dev-workflow)
 
