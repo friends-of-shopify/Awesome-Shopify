@@ -26,3 +26,7 @@ The goal of this repo is to gather all tips / resources / libraries we use to de
 ## Cheatsheets
 
 [Liquid Cheatsheet](https://www.shopify.com/partners/shopify-cheat-sheet)
+
+## Linter
+
+[Theme Check VS Code](https://github.com/Shopify/theme-check-vscode)
