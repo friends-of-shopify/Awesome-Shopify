@@ -17,6 +17,8 @@ The goal of this repo is to gather all tips / resources / libraries we use to de
 
 ## Boilerplates
 
+[Dawn Reference Theme](https://github.com/Shopify/dawn)
+
 [Webpack SCSS Shopify Theme Development Tool (Liquid)](https://github.com/krjo/shopify-webpack-dev-workflow)
 
 [Hydrogen (React based Framework)](https://hydrogen.shopify.dev/)
