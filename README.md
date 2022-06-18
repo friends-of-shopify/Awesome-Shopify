@@ -30,6 +30,7 @@ The goal of this repo is to gather all tips / resources / libraries we use to de
 ## Developer tools
 
 [Linter Theme Check VS Code](https://github.com/Shopify/theme-check-vscode)
+
 [Shopify Theme Inspector for Chrome](https://chrome.google.com/webstore/detail/shopify-theme-inspector-f/fndnankcflemoafdeboboehphmiijkgp)
 
 ## Certifications
