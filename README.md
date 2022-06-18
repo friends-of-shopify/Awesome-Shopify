@@ -27,9 +27,10 @@ The goal of this repo is to gather all tips / resources / libraries we use to de
 
 [Liquid Cheatsheet](https://www.shopify.com/partners/shopify-cheat-sheet)
 
-## Linter
+## Developer tools
 
-[Theme Check VS Code](https://github.com/Shopify/theme-check-vscode)
+[Linter Theme Check VS Code](https://github.com/Shopify/theme-check-vscode)
+[Shopify Theme Inspector for Chrome](https://chrome.google.com/webstore/detail/shopify-theme-inspector-f/fndnankcflemoafdeboboehphmiijkgp)
 
 ## Certifications
 
