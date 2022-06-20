@@ -9,11 +9,11 @@ The goal of this repo is to gather all tips / resources / libraries we use to de
 
 ## Credentials
 
-[Theme Kit Access](https://apps.shopify.com/theme-kit-access) : Easily manage access to your theme
+[Theme Kit Access](https://apps.shopify.com/theme-kit-access) - Easily manage access to your theme
 
 ## Continious Integration
 
-[Shopify GitHub Action](https://github.com/pgrimaud/action-shopify) : Deploy Shopify theme for GitHub Actions
+[Shopify GitHub Action](https://github.com/pgrimaud/action-shopify) - Deploy Shopify theme for GitHub Actions
 
 ## Boilerplates
 
@@ -38,3 +38,9 @@ The goal of this repo is to gather all tips / resources / libraries we use to de
 ## Certifications
 
 [Shopify Partner Training](https://partner-training.shopify.com)
+
+## Libraries
+
+[GraphQL](https://graphql.org/) - Tool to queries Shopify APIs
+
+[Learn GraphQL](https://www.howtographql.com/) - The Fullstack Tutorial for GraphQL
