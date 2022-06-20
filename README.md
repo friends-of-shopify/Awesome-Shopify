@@ -41,6 +41,6 @@ The goal of this repo is to gather all tips / resources / libraries we use to de
 
 ## Libraries
 
-[GraphQL](https://graphql.org/) - Tool to queries Shopify APIs
+[GraphQL](https://graphql.org/) - Tool to query Shopify APIs
 
 [Learn GraphQL](https://www.howtographql.com/) - The Fullstack Tutorial for GraphQL
