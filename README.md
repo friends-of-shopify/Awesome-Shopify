@@ -7,6 +7,10 @@ The goal of this repo is to gather all tips / resources / libraries we use to de
 
 --- 
 
+## Events
+
+[Shopify Town Hall](https://events.shopify.com/partnertownhall) - Shopify Partner Town Hall is a virtual event where partners and developers can hear directly from Shopify product teams on the latest releases and updates.
+
 ## Credentials
 
 [Theme Kit Access](https://apps.shopify.com/theme-kit-access) - Easily manage access to your theme
